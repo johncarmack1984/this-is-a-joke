@@ -13,6 +13,10 @@ module.exports = {
       },
     },
     extend: {
+      backgroundImage: {
+        "gradient-to-b":
+          "linear-gradient(to bottom, transparent 50%, black 75%)",
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
