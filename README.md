@@ -4,6 +4,8 @@
 
 ## Product Requirements Document (PRD) for HindeR
 
+![Hinder Swipe Screen](.github/preview.png?raw=true)
+
 **"HindeR"** is a mobile application that flips traditional job search and recruitment on its head by allowing job seekers and companies to swipe left or right on each other. Job seekers upload profiles, and companies swipe to find their next great hire. It’s recruitment made for the modern age.
 
 ### Problem Statement
